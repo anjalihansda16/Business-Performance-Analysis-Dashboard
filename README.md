@@ -60,7 +60,7 @@ This project is a comprehensive and interactive Business Performance Dashboard d
 ![year_selection](dashborad_demo/year_selection.png)
 - **CY and PY Comparisons:** CY vs. PY performance displayed with clear YoY growth rate labels.
 - **Interactive Drill-Downs & Hover Interactions:** Hover to explore deeper insights like data by region, state, city, product category, sub-category, and individual customers.
-![]()
+![hover_feature](dashborad_demo/hover_feature.PNG)
 - **Customizable Top Products/Customers:** Users can adjust the number of top products and customers displayed in tables (via a slider).
 ![custom_top_products](dashborad_demo/custom_top_products.png)
 
