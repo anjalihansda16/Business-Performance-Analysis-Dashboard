@@ -9,6 +9,8 @@ This project is a comprehensive and interactive Business Performance Dashboard d
 
 **1. Overview**
 
+![overview](dashborad_demo/overview.png)
+
 - **Total Sales/Profit/Orders/Customers (CY vs PY):** Overall business performance compared to the previous year.
 - **YoY Growth Rates:** Measures year-over-year percentage change to highlight business growth or decline.
 - **Sales/Profit/Orders by State with Top Cities on Hover:** Understand geographic distribution and pinpoint high-performing cities.
@@ -19,12 +21,16 @@ This project is a comprehensive and interactive Business Performance Dashboard d
 
 **2. Regional Analysis**
 
+![regional_analysis](dashborad_demo/regional_analysis.png)
+
 - **Regional Performance (CY vs PY):** Compares sales, profit, orders, and customer count across regions.
 - **Regional YoY Growth Rates:** Measures growth by region to identify market trends and regional opportunities.
 - **Monthly CY vs PY Sales/Profit/Orders by Region:** Helps track seasonal patterns and regional demand shifts.
 - **State-Level Performance Table:** Provides granular performance data for each state including order count, profit, sales, customer count, and YoY profit %.
 
 **3. Product Analysis**
+
+![product_analysis](dashborad_demo/product_analysis.png)
 
 - **Product Category Performance (CY vs PY):** Evaluates how different product lines are performing year over year.
 - **YoY Growth by Product Category:** Shows which categories are expanding or declining.
@@ -34,6 +40,8 @@ This project is a comprehensive and interactive Business Performance Dashboard d
 
 **4. Customer Analysis**
 
+![customer_analysis](dashborad_demo/customer_analysis.png)
+
 - **Customer Segment Performance (CY vs PY):** Measures how each customer type is contributing to overall business.
 - **YoY Growth by Customer Segment:** Identifies emerging or declining customer segments.
 - **Monthly Trends by Customer Segment:** Tracks engagement and revenue trends across customer groups.
@@ -41,15 +49,11 @@ This project is a comprehensive and interactive Business Performance Dashboard d
 - **New vs. Repeat Customer Line Chart:** Provides visibility into acquisition vs. retention dynamics.
 
 **5. Order Details**
+
+![order_details](dashborad_demo/order_details.png)
+
 - **Weekly Order Trends:** Captures operational tempo and demand cycles at a granular level.
 - **Detailed Order Table:** Lists order-level data for operational analysis and audit purposes.
-
-## Dashboard Demo Screenshorts
-![overview](dashborad_demo/overview.png)
-![regional_analysis](dashborad_demo/regional_analysis.png)
-![product_analysis](dashborad_demo/product_analysis.png)
-![customer_analysis](dashborad_demo/customer_analysis.png)
-![order_details](dashborad_demo/order_details.png)
 
 
 ## Dashboard Features
@@ -58,9 +62,9 @@ This project is a comprehensive and interactive Business Performance Dashboard d
 ![metric_toggle](dashborad_demo/metric_toggle.png)
 - **Custom Year Selection:** Choose which year to set as the Current Year (CY) for comparison with Previous Year (PY).
 ![year_selection](dashborad_demo/year_selection.png)
-- **CY and PY Comparisons:** CY vs. PY performance displayed with clear YoY growth rate labels.
 - **Interactive Drill-Downs & Hover Interactions:** Hover to explore deeper insights like data by region, state, city, product category, sub-category, and individual customers.
-![hover_feature](dashborad_demo/hover_feature.PNG)
+
+  ![hover_feature](dashborad_demo/hover_feature.PNG)
 - **Customizable Top Products/Customers:** Users can adjust the number of top products and customers displayed in tables (via a slider).
 ![custom_top_products](dashborad_demo/custom_top_products.png)
 
