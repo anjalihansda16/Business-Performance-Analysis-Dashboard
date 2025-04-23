@@ -44,14 +44,23 @@ This project is a comprehensive and interactive Business Performance Dashboard d
 - **Weekly Order Trends:** Captures operational tempo and demand cycles at a granular level.
 - **Detailed Order Table:** Lists order-level data for operational analysis and audit purposes.
 
-## Screenshots
+## Dashboard Demo Screenshorts
+![overview](dashborad_demo/overview.png)
+![regional_analysis](dashborad_demo/regional_analysis.png)
+![product_analysis](dashborad_demo/product_analysis.png)
+![customer_analysis](dashborad_demo/customer_analysis.png)
+![order_details](dashborad_demo/order_details.png)
 
 
 ## Dashboard Features
 
 - **Dynamic Metric Selection:** Toggle between key metrics—Sales, Profit, Orders—across all visualizations.
+![metric_toggle](dashborad_demo/metric_toggle.png)
 - **Custom Year Selection:** Choose which year to set as the Current Year (CY) for comparison with Previous Year (PY).
-- **Side-by-Side Comparisons:** CY vs. PY performance displayed with clear YoY growth rate labels.
-- **Interactive Drill-Downs & Hover Interactions:** Hover to explore deeper insights like data by region, state, city, product category, sub-category, and individual customers. 
+![year_selection](dashborad_demo/year_selection.png)
+- **CY and PY Comparisons:** CY vs. PY performance displayed with clear YoY growth rate labels.
+- **Interactive Drill-Downs & Hover Interactions:** Hover to explore deeper insights like data by region, state, city, product category, sub-category, and individual customers.
+![]()
 - **Customizable Top Products/Customers:** Users can adjust the number of top products and customers displayed in tables (via a slider).
+![custom_top_products](dashborad_demo/custom_top_products.png)
 
