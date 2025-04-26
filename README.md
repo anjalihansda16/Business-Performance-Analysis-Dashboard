@@ -2,7 +2,7 @@
 For interactive dashboard experience click [here](https://public.tableau.com/app/profile/anjali.hansda/viz/BusinessPerformanceDashboard_17453320018590/Overview)
 
 ## Project Overview
-This project is a comprehensive and interactive Business Performance Dashboard developed for an online retail store. It is designed to help stakeholders gain a clear understanding of key business metrics across regions, product categories, and customer segments over time. The dashboard enables users to compare current year (CY) and previous year (PY) performance with year-over-year (YoY) growth rates. offering valuable insights into trends and business progress. It features dynamic metric selection, allowing users to toggle between sales, profit, and orders based on their analytical needs. Additionally, it includes intuitive drill-down capabilities that provide granular views by geography, product lines, and customer segments.
+This project is a comprehensive and interactive Business Performance Dashboard developed for an online retail store. It is designed to help stakeholders gain a clear understanding of key business metrics across regions, product categories, and customer segments over time. The dashboard enables users to compare current year (CY) and previous year (PY) performance with year-over-year (YoY) growth rates, offering valuable insights into trends and business progress. It features dynamic metric selection, allowing users to toggle between sales, profit, and orders based on their analytical needs. Additionally, it includes intuitive drill-down capabilities that provide granular views by geography, product lines, and customer segments.
 
 ## Metrices
  The following metrics and visualizations are included across the five key sections:
